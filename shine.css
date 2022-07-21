@@ -1,0 +1,25 @@
+body{
+
+background-image: url(./IMAGE/PicsArt_22-07-19_11-29-14-077.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+button {
+    border-radius: 25px;
+    margin-left: 568px;
+    margin-top: 300px;
+    background-color: red;
+
+    color: white;
+    height: 60px;
+    width: 156px;
+
+}
+
+button:hover {
+    background-color: white;
+    color: red;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
